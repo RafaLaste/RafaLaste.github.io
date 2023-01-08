@@ -695,9 +695,7 @@ ul + p {
   background: #000;
 }
 .footer--content {
-  display: flex;
-  justify-content: center;
-  column-gap: 4px;
+  text-align: center;
   padding: 25px;
 }
 .foot__logo {
