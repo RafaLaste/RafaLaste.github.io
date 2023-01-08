@@ -962,6 +962,7 @@ ul + p {
 }
 .item--action {
   position: relative;
+  display: block;
 }
 .item--action::after {
   content: '';
